@@ -1,0 +1,15 @@
+# Ignorar a pasta de saída do MkDocs (ficheiros HTML gerados)
+documentacao-teste/site/
+
+# Ignorar pastas virtuais do Python (se usar venv)
+venv/
+env/
+.venv/
+
+# Ignorar ficheiros temporários do sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar ficheiros de cache do Python
+__pycache__/
+*.pyc
